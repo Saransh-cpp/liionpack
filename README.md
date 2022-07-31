@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/pybamm-team/liionpack/main/docs/liionpack.png)
 
-#
+
 <div align="center">
 
 [![liionpack](https://github.com/pybamm-team/liionpack/actions/workflows/test_on_push.yml/badge.svg)](https://github.com/pybamm-team/liionpack/actions/workflows/test_on_push.yml)
